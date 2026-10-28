@@ -31,6 +31,17 @@
     "prazo": 4,
     "texto_proposta": "Olá, Gilmar, tudo bem?\n\nAtuo no desenvolvimento de software e modelagem de sistemas com foco em arquitetura orientada a objetos e boas práticas de código. Meu trabalho prioriza entregas bem organizadas, fáceis de entender e prontas para rodar sem dores de cabeça.\n\nPara o seu projeto hospitalar, faremos a criação completa das classes de entidades (Pessoas, Atendimentos, Procedimentos, Medicações e Convênios) com seus relacionamentos bem amarrados e encapsulamento correto. Deixarei a estrutura organizada via Apache Maven para que você consiga importar e executar direto no NetBeans sem nenhum conflito de dependências, além de incluir comentários claros explicando o fluxo.\n\nVocê já possui um roteiro com os atributos específicos de cada entidade ou vamos estruturar as classes com base nas regras gerais?\n\nPrazo: 4 dias\n\nValor: R$ 240",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-28T10:32:11.711322"
+    "data_envio": "2026-10-28T10:32:11.711322",
+    "talk_url": "https://www.99freelas.com.br/talk/17525830"
+  },
+  "entregar-a-loja-da-nuvemshop-pronta-para-eu-tocar-depois-sozinha-794648": {
+    "id": "entregar-a-loja-da-nuvemshop-pronta-para-eu-tocar-depois-sozinha-794648",
+    "url": "https://www.99freelas.com.br/project/entregar-a-loja-da-nuvemshop-pronta-para-eu-tocar-depois-sozinha-794648?fs=t",
+    "titulo": "Entregar a loja da Nuvemshop pronta para eu tocar depois sozinha",
+    "valor": 180,
+    "prazo": 4,
+    "texto_proposta": "Olá, Nena, tudo bem?\n\nTrabalho com criação e configuração de lojas virtuais na Nuvemshop, sempre com foco em deixar tudo simples e fácil para você mesma gerenciar no dia a dia. Entendo sua preocupação com experiências passadas e prezo por transparência total em cada etapa.\n\nPara a sua lojinha, vou deixar o layout com a identidade visual do seu artesanato, configurar as formas de pagamento (Pix e cartão), as opções de frete/envio e cadastrar os primeiros produtos como modelo. Além disso, te entrego um passo a passo simples para você conseguir cadastrar novas peças e cuidar das vendas com total autonomia pelo celular ou computador.\n\nVocê já criou a conta na Nuvemshop ou vamos fazer a criação juntos desde o início?\n\nPrazo: 4 dias\n\nValor: R$ 180",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-28T11:02:34.079172"
   }
 }
