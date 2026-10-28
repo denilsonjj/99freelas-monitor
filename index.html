@@ -140,7 +140,10 @@
         const res = await fetch('propostas.json?t=' + new Date().getTime());
         if (!res.ok) throw new Error("Erro na leitura");
         const dadosObj = await res.json();
-        dadosGlobais = Array.isArray(dadosObj) ? dadosObj : Object.values(dadosObj);
+        let lista = Array.isArray(dadosObj) ? dadosObj : Object.values(dadosObj);
+
+        // Filtra EXCLUSIVAMENTE propostas reais que foram enviadas com valor e texto
+        dadosGlobais = lista.filter(p => p.status === 'enviado_com_sucesso' || (p.valor && p.texto_proposta));
 
         // Ordena por data decrescente
         dadosGlobais.sort((a, b) => new Date(b.data_envio || 0) - new Date(a.data_envio || 0));
