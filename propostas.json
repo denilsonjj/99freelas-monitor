@@ -111,6 +111,17 @@
     "prazo": 10,
     "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com desenvolvimento de aplicações web e híbridas responsivas, estruturando plataformas sob medida, painéis administrativos e regras de negócios com banco de dados em tempo real.\n\nPara o MVP do RotaConecta, desenvolvo a aplicação com foco total na usabilidade móvel e velocidade:\n1. Módulos de cadastro e autenticação segura com separação de perfis (passageiro, motorista e transportador/cargas).\n2. Publicação e busca de viagens/caronas com controle rigoroso de vagas e aceite mútuo entre as partes.\n3. Módulo específico para fretes e transporte de encomendas/cargas com especificações de dimensões, peso e veículo.\n4. Painel administrativo para acompanhamento de status, moderação e controle da plataforma.\nTudo construído com privacidade de dados, código limpo e arquitetura escalável para receber pagamentos e rastreamento nas próximas fases.\n\nVocê já tem preferência por alguma hospedagem (como Supabase/Firebase ou servidor próprio) ou definimos isso juntos no início?\n\nPrazo: 10 dias\n\nValor: R$ 650",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-28T16:46:08.467858"
+    "data_envio": "2026-10-28T16:46:08.467858",
+    "talk_url": "https://www.99freelas.com.br/talk/17528945"
+  },
+  "finalizacao-do-modulo-de-mapa-para-whatsapp-794762": {
+    "id": "finalizacao-do-modulo-de-mapa-para-whatsapp-794762",
+    "url": "https://www.99freelas.com.br/project/finalizacao-do-modulo-de-mapa-para-whatsapp-794762?fs=t",
+    "titulo": "Finalização do módulo de mapa para WhatsApp",
+    "valor": 210,
+    "prazo": 3,
+    "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com desenvolvimento de backend em Node.js (18+), modelagem e consultas em PostgreSQL, filas e cache com Redis e containerização em Docker / Docker Compose.\n\nPara a finalização do seu módulo de mapa integrado ao WhatsApp, realizo o ajuste da lógica de geolocalização/renderização das coordenadas, gravação e leitura otimizada no Postgres e controle de cache/sessões no Redis, garantindo que os containers rodem de forma leve e sem gargalos de concorrência.\n\nO repositório já está estruturado com Docker Compose para rodar o ambiente de desenvolvimento localmente?\n\nPrazo: 3 dias\n\nValor: R$ 210",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-28T17:31:04.361056"
   }
 }
