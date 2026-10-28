@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>99Freelas Monitor | Painel de Propostas</title>
+  <title>99Freelas Autônomo | Acompanhamento</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -33,134 +33,187 @@
     <!-- Header -->
     <header class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 bg-slate-900/80 border border-slate-800 p-5 rounded-2xl backdrop-blur-sm">
       <div class="flex items-center gap-3">
-        <div class="w-10 h-10 rounded-xl bg-green-500/10 border border-green-500/20 flex items-center justify-center text-green-400 text-lg">
+        <div class="w-10 h-10 rounded-xl bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center text-emerald-400 text-lg">
           <i class="fa-solid fa-robot"></i>
         </div>
         <div>
           <h1 class="text-xl font-bold tracking-tight text-white flex items-center gap-2">
             99Freelas Autônomo
             <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-xs font-medium bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
-              <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span> Ativo
+              <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span> A cada 15 min
             </span>
           </h1>
-          <p class="text-xs text-slate-400">Varredura e envio automático a cada 20 minutos com Gemini 3.8 Flash</p>
+          <p class="text-xs text-slate-400">Foco: Automações, Planilhas, Dashboards e Dados com Gemini 3.8 Flash</p>
         </div>
       </div>
       <div class="flex items-center gap-2 text-xs text-slate-400">
         <i class="fa-regular fa-clock"></i>
-        <span>Última atualização: <strong id="last-update" class="text-slate-300">Carregando...</strong></span>
+        <span>Última checagem: <strong id="last-update" class="text-slate-200">--:--</strong></span>
       </div>
     </header>
 
-    <!-- Métricas do Dia -->
+    <!-- Métricas Reestruturadas -->
     <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4">
       <div class="bg-slate-900/60 border border-slate-800 p-4 rounded-xl">
         <p class="text-xs font-medium text-slate-400">Propostas Hoje</p>
         <p id="total-propostas" class="text-2xl font-bold text-white mt-1">0</p>
         <p class="text-[10px] text-emerald-400 mt-1 flex items-center gap-1">
-          <i class="fa-solid fa-arrow-trend-up"></i> 100% no alvo
+          <i class="fa-solid fa-check"></i> Disparadas no alvo
         </p>
       </div>
 
       <div class="bg-slate-900/60 border border-slate-800 p-4 rounded-xl">
-        <p class="text-xs font-medium text-slate-400">Total Ofertado</p>
-        <p id="valor-total" class="text-2xl font-bold text-emerald-400 mt-1">R$ 0</p>
-        <p class="text-[10px] text-slate-500 mt-1">Valor final ao cliente</p>
+        <p class="text-xs font-medium text-slate-400">Respondidos</p>
+        <p id="total-respondidos" class="text-2xl font-bold text-amber-400 mt-1">0</p>
+        <p class="text-[10px] text-slate-500 mt-1">Clientes em conversa</p>
+      </div>
+
+      <div class="bg-slate-900/60 border border-slate-800 p-4 rounded-xl">
+        <p class="text-xs font-medium text-slate-400">Taxa de Resposta</p>
+        <p id="taxa-resposta" class="text-2xl font-bold text-white mt-1">0%</p>
+        <p class="text-[10px] text-slate-500 mt-1">Conversão em chat</p>
       </div>
 
       <div class="bg-slate-900/60 border border-slate-800 p-4 rounded-xl">
         <p class="text-xs font-medium text-slate-400">Ticket Médio</p>
-        <p id="ticket-medio" class="text-2xl font-bold text-white mt-1">R$ 0</p>
-        <p class="text-[10px] text-slate-500 mt-1">Por proposta enviada</p>
-      </div>
-
-      <div class="bg-slate-900/60 border border-slate-800 p-4 rounded-xl">
-        <p class="text-xs font-medium text-slate-400">Prazo Médio</p>
-        <p id="prazo-medio" class="text-2xl font-bold text-white mt-1">0 dias</p>
-        <p class="text-[10px] text-slate-500 mt-1">Tempo de entrega</p>
+        <p id="ticket-medio" class="text-2xl font-bold text-emerald-400 mt-1">R$ 0</p>
+        <p class="text-[10px] text-slate-500 mt-1">Por proposta ofertada</p>
       </div>
     </div>
 
-    <!-- Lista de Propostas -->
+    <!-- Navegação de Abas (Enviados vs Respondidos) -->
     <div class="bg-slate-900/70 border border-slate-800 rounded-2xl overflow-hidden">
-      <div class="p-4 sm:p-5 border-b border-slate-800/80 flex items-center justify-between">
-        <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-300 flex items-center gap-2">
-          <i class="fa-solid fa-paper-plane text-emerald-400 text-xs"></i>
-          Histórico de Envios
-        </h2>
-        <span id="badge-contador" class="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-slate-800 text-slate-300">
-          0 enviadas
-        </span>
+      
+      <div class="p-4 border-b border-slate-800 flex items-center justify-between gap-3">
+        <div class="flex items-center gap-2">
+          <button id="tab-enviados" onclick="trocarAba('enviados')" class="px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 flex items-center gap-2">
+            <i class="fa-solid fa-paper-plane text-xs"></i>
+            Enviadas
+            <span id="badge-enviadas" class="px-2 py-0.2 rounded-full text-[11px] bg-emerald-500/20 text-emerald-300">0</span>
+          </button>
+          
+          <button id="tab-respondidos" onclick="trocarAba('respondidos')" class="px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-400 hover:text-slate-200 hover:bg-slate-800/40 border border-transparent flex items-center gap-2">
+            <i class="fa-solid fa-comments text-xs"></i>
+            Respondidos
+            <span id="badge-respondidos" class="px-2 py-0.2 rounded-full text-[11px] bg-slate-800 text-slate-400">0</span>
+          </button>
+        </div>
+
+        <button onclick="carregarPropostas()" class="text-xs text-slate-400 hover:text-slate-200 px-3 py-1.5 rounded-lg border border-slate-800 hover:bg-slate-800/40 transition-colors flex items-center gap-1.5">
+          <i class="fa-solid fa-rotate-right text-[11px]"></i>
+          <span class="hidden sm:inline">Atualizar</span>
+        </button>
       </div>
 
+      <!-- Container da Lista -->
       <div id="lista-propostas" class="divide-y divide-slate-800/60">
-        <!-- Renderizado dinamicamente via JS -->
-        <div class="p-8 text-center text-slate-500 text-sm">Carregando propostas...</div>
+        <div class="p-8 text-center text-slate-500 text-sm">Carregando dados...</div>
       </div>
+
     </div>
 
   </div>
 
   <script>
-    // Se estiver rodando estático, lê propostas.json ou o endpoint configurado
+    let dadosGlobais = [];
+    let abaAtiva = 'enviados';
+
+    function trocarAba(novaAba) {
+      abaAtiva = novaAba;
+      
+      const btnEnv = document.getElementById('tab-enviados');
+      const btnResp = document.getElementById('tab-respondidos');
+
+      if (abaAtiva === 'enviados') {
+        btnEnv.className = "px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 flex items-center gap-2";
+        btnResp.className = "px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-400 hover:text-slate-200 hover:bg-slate-800/40 border border-transparent flex items-center gap-2";
+      } else {
+        btnResp.className = "px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all bg-amber-500/10 text-amber-400 border border-amber-500/30 flex items-center gap-2";
+        btnEnv.className = "px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-400 hover:text-slate-200 hover:bg-slate-800/40 border border-transparent flex items-center gap-2";
+      }
+
+      renderizarLista();
+    }
+
     async function carregarPropostas() {
       try {
         const res = await fetch('propostas.json?t=' + new Date().getTime());
-        if (!res.ok) throw new Error("Falha ao carregar dados");
+        if (!res.ok) throw new Error("Erro na leitura");
         const dadosObj = await res.json();
-        const lista = Array.isArray(dadosObj) ? dadosObj : Object.values(dadosObj);
+        dadosGlobais = Array.isArray(dadosObj) ? dadosObj : Object.values(dadosObj);
 
         // Ordena por data decrescente
-        lista.sort((a, b) => new Date(b.data_envio || 0) - new Date(a.data_envio || 0));
+        dadosGlobais.sort((a, b) => new Date(b.data_envio || 0) - new Date(a.data_envio || 0));
 
-        renderizar(lista);
+        atualizarMetricas();
+        renderizarLista();
       } catch (err) {
         console.error(err);
-        document.getElementById('lista-propostas').innerHTML = `
-          <div class="p-8 text-center text-rose-400 text-sm">
-            <i class="fa-solid fa-triangle-exclamation mr-2"></i> Não foi possível carregar os dados das propostas.
-          </div>
-        `;
       }
     }
 
-    function renderizar(lista) {
+    function atualizarMetricas() {
       document.getElementById('last-update').innerText = new Date().toLocaleTimeString('pt-BR');
-      document.getElementById('total-propostas').innerText = lista.length;
-      document.getElementById('badge-contador').innerText = `${lista.length} enviadas`;
 
-      let totalValor = 0;
-      let totalPrazo = 0;
+      const total = dadosGlobais.length;
+      const respondidos = dadosGlobais.filter(p => p.respondido === true).length;
+      const taxa = total > 0 ? Math.round((respondidos / total) * 100) : 0;
 
-      lista.forEach(p => {
-        totalValor += Number(p.valor || 0);
-        totalPrazo += Number(p.prazo || 0);
-      });
+      let somaValor = 0;
+      dadosGlobais.forEach(p => { somaValor += Number(p.valor || 0); });
+      const ticketMedio = total > 0 ? Math.round(somaValor / total) : 0;
 
-      const ticketMedio = lista.length > 0 ? Math.round(totalValor / lista.length) : 0;
-      const prazoMedio = lista.length > 0 ? (totalPrazo / lista.length).toFixed(1) : 0;
-
-      document.getElementById('valor-total').innerText = `R$ ${totalValor}`;
+      document.getElementById('total-propostas').innerText = total;
+      document.getElementById('total-respondidos').innerText = respondidos;
+      document.getElementById('taxa-resposta').innerText = `${taxa}%`;
       document.getElementById('ticket-medio').innerText = `R$ ${ticketMedio}`;
-      document.getElementById('prazo-medio').innerText = `${prazoMedio} dias`;
 
+      document.getElementById('badge-enviadas').innerText = total;
+      document.getElementById('badge-respondidos').innerText = respondidos;
+    }
+
+    function renderizarLista() {
       const container = document.getElementById('lista-propostas');
-      if (lista.length === 0) {
-        container.innerHTML = '<div class="p-8 text-center text-slate-500 text-sm">Nenhuma proposta enviada ainda hoje.</div>';
+      
+      const filtrados = abaAtiva === 'respondidos'
+        ? dadosGlobais.filter(p => p.respondido === true)
+        : dadosGlobais;
+
+      if (filtrados.length === 0) {
+        container.innerHTML = `
+          <div class="p-12 text-center text-slate-500 text-sm space-y-2">
+            <i class="fa-solid fa-inbox text-3xl opacity-40"></i>
+            <p>${abaAtiva === 'respondidos' ? 'Nenhum cliente respondeu ainda. Assim que responderem, aparecerão aqui!' : 'Nenhuma proposta enviada ainda.'}</p>
+          </div>
+        `;
         return;
       }
 
-      container.innerHTML = lista.map((p, idx) => {
+      container.innerHTML = filtrados.map(p => {
         const dataFormatada = p.data_envio 
           ? new Date(p.data_envio).toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })
           : '--:--';
 
         const textoLimpo = (p.texto_proposta || '').replace(/\n/g, '<br>');
 
+        const tagStatus = p.respondido
+          ? `<span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-[11px] font-semibold bg-amber-500/10 text-amber-400 border border-amber-500/20">
+               <i class="fa-solid fa-comment-dots text-[9px]"></i> Cliente Respondeu
+             </span>`
+          : `<span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-[11px] font-medium bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+               <i class="fa-solid fa-check text-[9px]"></i> Enviado
+             </span>`;
+
+        const botaoChat = p.talk_url ? `
+          <a href="${p.talk_url}" target="_blank" class="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-amber-500 text-slate-950 hover:bg-amber-400 transition-colors">
+            <i class="fa-solid fa-comments"></i> Abrir Chat no 99
+          </a>
+        ` : '';
+
         return `
           <div class="p-4 sm:p-5 hover:bg-slate-800/20 transition-colors">
-            <div class="flex flex-col sm:flex-row sm:items-start justify-between gap-2">
-              <div class="space-y-1">
+            <div class="flex flex-col sm:flex-row sm:items-start justify-between gap-3">
+              <div class="space-y-1.5">
                 <a href="${p.url}" target="_blank" class="font-semibold text-slate-100 hover:text-emerald-400 text-sm sm:text-base flex items-center gap-1.5 transition-colors">
                   ${p.titulo}
                   <i class="fa-solid fa-arrow-up-right-from-square text-[11px] opacity-60"></i>
@@ -180,9 +233,10 @@
                 </div>
               </div>
 
-              <span class="self-start inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-[11px] font-medium bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
-                <i class="fa-solid fa-check text-[9px]"></i> Enviado
-              </span>
+              <div class="flex items-center gap-2 self-start">
+                ${tagStatus}
+                ${botaoChat}
+              </div>
             </div>
 
             <div class="mt-3.5 bg-slate-950/60 border border-slate-800/80 rounded-xl p-3.5 text-xs text-slate-300 leading-relaxed font-sans">
@@ -193,7 +247,6 @@
       }).join('');
     }
 
-    // Carrega agora e atualiza a cada 30 segundos
     carregarPropostas();
     setInterval(carregarPropostas, 30000);
   </script>
