@@ -46,5 +46,15 @@
     "respondido": true,
     "talk_url": "https://www.99freelas.com.br/talk/17526667",
     "ultima_mensagem_cliente": "Olá, tudo bem? Gostei da sua proposta, podemos conversar? segue meu ctt 11945277732."
+  },
+  "sistema-integrado-de-agenda-com-envio-por-email-e-whatsapp-para-clientes-794676": {
+    "id": "sistema-integrado-de-agenda-com-envio-por-email-e-whatsapp-para-clientes-794676",
+    "url": "https://www.99freelas.com.br/project/sistema-integrado-de-agenda-com-envio-por-email-e-whatsapp-para-clientes-794676?fs=t",
+    "titulo": "Sistema integrado de agenda com envio por email e whatsapp para clientes",
+    "valor": 340,
+    "prazo": 5,
+    "texto_proposta": "Olá, Fred, tudo bem?\n\nTrabalho com desenvolvimento de sistemas práticos e automações de atendimento para empresas, integrando disparos automáticos por WhatsApp e e-mail de forma simples e segura. Meu foco é entregar ferramentas fáceis de usar no dia a dia, tanto pelo celular quanto pelo computador.\n\nPara o seu caso, criaremos um painel de agenda bem intuitivo onde você registra o cliente, a data do serviço realizado e a periodicidade de retorno (mensal, bimestral, semestral, etc.). O sistema calculará automaticamente o momento exato de cada reagendamento e fará o disparo dos lembretes personalizados com o nome do cliente no WhatsApp e no e-mail, sem você precisar ficar controlando isso manualmente.\n\nVocê já tem alguma API de WhatsApp contratada (ou número específico) ou quer que eu te recomende a opção mais econômica e estável para os envios?\n\nPrazo: 5 dias\n\nValor: R$ 340",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-28T12:47:35.821072"
   }
 }
