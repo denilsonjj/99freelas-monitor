@@ -68,5 +68,15 @@
     "status": "enviado_com_sucesso",
     "data_envio": "2026-10-28T13:01:55.787820",
     "talk_url": "https://www.99freelas.com.br/talk/17521516"
+  },
+  "automacao-no-code-whatsapp-typebot-ia-pdf-para-escritorio-de-advocac-794686": {
+    "id": "automacao-no-code-whatsapp-typebot-ia-pdf-para-escritorio-de-advocac-794686",
+    "url": "https://www.99freelas.com.br/project/automacao-no-code-whatsapp-typebot-ia-pdf-para-escritorio-de-advocac-794686?fs=t",
+    "titulo": "Automação No-Code: WhatsApp + Typebot + IA + PDF para Escritório de Advocacia",
+    "valor": 840,
+    "prazo": 7,
+    "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com automação de processos, integração de WhatsApp (via Z-API e Evolution API) e fluxos inteligentes no Make.com conectando Typebot, APIs da OpenAI e geração automatizada de documentos.\n\nPara a sua demanda, estruturo a esteira completa exatamente como planejado: o bot no Typebot recebe os dados e o arquivo do Boletim de Ocorrência, a API do GPT-4o processa a imagem/PDF via OCR e extrai a dinâmica com precisão, o webhook gera a cobrança Pix imediata (Asaas/Mercado Pago) e, após a confirmação, o PDF da notificação é gerado automaticamente. O fluxo ainda envia o alerta no Telegram ou WhatsApp para aprovação em 1 clique antes do disparo final. Ao final, entrego tudo testado e com um vídeo explicativo demonstrando a operação.\n\nVocê já tem as contas da Evolution/Z-API e OpenAI configuradas, ou podemos ajustar isso juntos no início?\n\nPrazo: 7 dias\n\nValor: R$ 840",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-28T13:17:58.980632"
   }
 }
