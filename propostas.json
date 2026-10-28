@@ -125,5 +125,15 @@
     "data_envio": "2026-10-28T17:31:04.361056",
     "talk_url": "https://www.99freelas.com.br/talk/17529311",
     "respondido": true
+  },
+  "migracao-de-loja-woocommerce-da-vps-para-a-hostinger-com-limpeza-dns-e-ssl-794775": {
+    "id": "migracao-de-loja-woocommerce-da-vps-para-a-hostinger-com-limpeza-dns-e-ssl-794775",
+    "url": "https://www.99freelas.com.br/project/migracao-de-loja-woocommerce-da-vps-para-a-hostinger-com-limpeza-dns-e-ssl-794775?fs=t",
+    "titulo": "Migração de loja WooCommerce da VPS para a Hostinger com limpeza, DNS e SSL",
+    "valor": 480,
+    "prazo": 3,
+    "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com infraestrutura e manutenção avançada de WordPress/WooCommerce, atuando com SSH, WP-CLI, otimização de banco de dados e gestão de zonas de DNS no Cloudflare e Google Workspace.\n\nPara a migração da sua loja com tema WoodMart para a Hostinger, executo o processo com zero downtime e total segurança dos pedidos:\n1. Backup prévio completo dos arquivos e dump do banco de dados (mysqldump).\n2. Limpeza criteriosa do banco (tabelas órfãs de plugins excluídos, transientes e lixo de demonstração) sem alterar histórico de pedidos ou clientes.\n3. Migração para a Hostinger e substituição segura de URLs/caminhos via WP-CLI (search-replace) por SSH.\n4. Ajuste dos apontamentos DNS no Cloudflare (mantendo intactas as entradas MX/SPF/DKIM do Google Workspace) e instalação/validação do certificado SSL Sectigo.\n5. Preservação do link seguro de login e testes completos ponta a ponta: envio de e-mails transacionais (SMTP), simulação de compra, gateway de pagamento e cálculo de frete.\n\nVocê já tem os acessos SSH da VPS e o painel da Hostinger e Cloudflare em mãos para iniciarmos?\n\nPrazo: 3 dias\n\nValor: R$ 480",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-28T18:01:11.970719"
   }
 }
