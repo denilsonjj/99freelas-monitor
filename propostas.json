@@ -98,7 +98,9 @@
     "valor": 1750,
     "prazo": 10,
     "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com desenvolvimento de sistemas web, automações de ponta a ponta e integração com modelos de Inteligência Artificial e gateways de pagamento.\n\nPara a sua plataforma de músicas personalizadas, estruturo exatamente o fluxo do Notas Infinitas no piloto automático:\n1. Interface moderna e responsiva onde o cliente preenche a história, escolhe o estilo e o tipo de voz.\n2. Integração com IA para geração da letra (OpenAI GPT-4o) e conexão via API musical de alta fidelidade em português (como Suno API / Udio via wrapper oficial com direito de uso comercial).\n3. Geração automática de prévia com player bloqueado e limitação por IP/sessão para evitar abusos.\n4. Checkout transparente via Pix imediato e cartão (Mercado Pago ou Asaas).\n5. Webhook que detecta o pagamento e libera na hora o download do MP3 completo na tela e por e-mail, além de painel administrativo para você gerenciar todos os pedidos e custos de API.\n\nVocê já tem uma conta criada no gateway de pagamento (Mercado Pago/Asaas) ou prefere que eu auxilie na configuração inicial?\n\nPrazo: 10 dias\n\nValor: R$ 1750",
-    "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-28T16:16:07.717476"
+    "status": "proposta_recusada",
+    "data_envio": "2026-10-28T16:16:07.717476",
+    "talk_url": "https://www.99freelas.com.br/talk/17528669",
+    "respondido": true
   }
 }
