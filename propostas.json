@@ -176,5 +176,15 @@
     "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com desenvolvimento e finalização de aplicativos mobile (React Native / Flutter / híbridos), integração com APIs de pagamento Pix e publicação nas lojas oficiais (Google Play Console e Apple Developer).\n\nPara o seu app de taxa de juros, assumo a reta final para deixá-lo 100% pronto e publicado:\n1. Revisão e implementação final das regras de cálculo com base na documentação e protótipos já existentes.\n2. Integração do gateway de pagamento Pix (Mercado Pago, Asaas ou Gerencianet/Efí) com geração imediata de QR Code e confirmação via webhook.\n3. Geração das builds de produção (AAB para Android e IPA para iOS) e homologação com submissão completa até a aprovação na Google Play e App Store.\n\nEm qual tecnologia/framework o código atual do app foi desenvolvido?\n\nPrazo: 6 dias\n\nValor: R$ 790",
     "status": "enviado_com_sucesso",
     "data_envio": "2026-10-29T09:02:08.513486"
+  },
+  "diagnostico-de-prob-e-configuracao-plataforma-de-vendas-shoppe-e-bling-794868": {
+    "id": "diagnostico-de-prob-e-configuracao-plataforma-de-vendas-shoppe-e-bling-794868",
+    "url": "https://www.99freelas.com.br/project/diagnostico-de-prob-e-configuracao-plataforma-de-vendas-shoppe-e-bling-794868?fs=t",
+    "titulo": "Diagnóstico de prob. e configuração plataforma de Vendas SHOPPE e BLING",
+    "valor": 250,
+    "prazo": 2,
+    "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com integração de sistemas, sincronização de ERPs (Bling) e resolução de falhas técnicas de catálogos e integrações com canais de venda como Shopee.\n\nPara a VALLORA Store, realizo o diagnóstico completo e a correção técnica da vitrine:\n1. Análise da amarração de categorias, atributos obrigatórios e status de sincronização de anúncios entre o Bling e a Shopee (frequentemente o produto aprova internamente mas não sobe para a vitrine pública por pendência de categoria folha, validação de marca ou regra de visibilidade da loja).\n2. Ajuste das configurações de layout/vitrine na Central do Vendedor da Shopee para exibir as seções e coleções de produtos corretamente.\n3. Testes práticos ponta a ponta com atualização de estoque, preços e validação visual da vitrine pública no celular e computador.\n\nVocês têm acesso de administrador ativo na Central do Vendedor da Shopee e no Bling para eu iniciar a análise?\n\nPrazo: 2 dias\n\nValor: R$ 250",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-29T09:16:29.190001"
   }
 }
