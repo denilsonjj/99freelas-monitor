@@ -298,7 +298,8 @@
     "prazo": 4,
     "texto_proposta": "Olá, tudo bem?\n\nDesenvolvo sistemas web com foco acadêmico e profissional (Node.js/Python com SQLite/PostgreSQL), com arquitetura limpa, código bem comentado e documentação técnica completa.\n\nEntrego o sistema de cafeteria 100% funcional (pedidos, cardápio, controle de estoque simples), hospedado e rodando em link online (Vercel/Render) para você apresentar. O pacote inclui o repositório organizado no GitHub, modelagem DER do banco de dados e o relatório técnico estruturado pronto para a entrega do seu PIT II.\n\nVocê já tem o roteiro de requisitos ou os modelos de tabelas que o professor solicitou?\n\nPrazo: 4 dias\n\nValor: R$ 320",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-29T16:01:04.514382"
+    "data_envio": "2026-10-29T16:01:04.514382",
+    "talk_url": "https://www.99freelas.com.br/talk/17535165"
   },
   "implantacao-de-agentes-de-inteligencia-artificial-para-automacao-empresarial-794977": {
     "id": "implantacao-de-agentes-de-inteligencia-artificial-para-automacao-empresarial-794977",
@@ -308,7 +309,8 @@
     "prazo": 18,
     "texto_proposta": "Olá, tudo bem?\n\nEspecialista em automação corporativa e orquestração de agentes autônomos de IA integrados a n8n, Make, APIs oficiais de WhatsApp, CRMs e ERPs.\n\nEstruturo a solução em arquitetura modular: agentes de qualificação/atendimento no WhatsApp com memória e roteamento inteligente, sincronização automática de dados no seu CRM, agentes financeiros para conciliação de faturas e alertas de vencimento, e geração automática de relatórios operacionais. O projeto contempla diagnóstico, implementação dos fluxos, documentação técnica, validação assistida e treinamento da sua equipe.\n\nQuais são o CRM e o ERP atualmente utilizados na sua operação?\n\nPrazo: 18 dias\n\nValor: R$ 2750",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-29T16:01:19.312603"
+    "data_envio": "2026-10-29T16:01:19.312603",
+    "talk_url": "https://www.99freelas.com.br/talk/17535167"
   },
   "criar-apis-com-informacoes-baseadas-em-um-mysql-gigante-794980": {
     "id": "criar-apis-com-informacoes-baseadas-em-um-mysql-gigante-794980",
@@ -318,7 +320,8 @@
     "prazo": 8,
     "texto_proposta": "Olá, tudo bem?\n\nEspecialista em arquitetura backend de alta performance, modelagem/otimização de consultas em MySQL volumoso e sincronização com Elasticsearch (ELK / Logstash / CDC com Debezium).\n\nPara bancos com alto throughput de escrita, leitura e deleção contínua, estruturo APIs REST/FastAPI ou Node.js com paginação eficiente (keyset pagination em vez de offsets pesados) e índices otimizados para evitar table scans. Para o espelhamento em tempo real no Elasticsearch sem sobrecarregar o MySQL primário, implemento um pipeline de sincronização contínua (via Change Data Capture com binlogs ou workers assíncronos), garantindo latência mínima e busca ultra rápida.\n\nQual é o volume estimado de registros nessas tabelas e a média de requisições por segundo que as APIs receberão?\n\nPrazo: 8 dias\n\nValor: R$ 980",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-29T16:15:58.468429"
+    "data_envio": "2026-10-29T16:15:58.468429",
+    "talk_url": "https://www.99freelas.com.br/talk/17535348"
   },
   "quero-ajuda-com-e-commerce-794984": {
     "id": "quero-ajuda-com-e-commerce-794984",
@@ -329,5 +332,15 @@
     "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com estruturação de e-commerce, catálogo de produtos, integração de frete e pagamentos e gestão de pedidos.\n\nTe ajudo de forma prática e passo a passo a organizar sua operação: estruturar os produtos e categorias corretamente, configurar os meios de pagamento/Pix e envio, e alinhar a rotina diária para você ter total segurança e clareza de como operar sua loja sem complicação.\n\nQual é a plataforma que você está utilizando e qual o nicho dos seus produtos?\n\nPrazo: 3 dias\n\nValor: R$ 240",
     "status": "enviado_com_sucesso",
     "data_envio": "2026-10-29T16:31:10.209798"
+  },
+  "procuro-freelancer-para-criacao-de-anuncios-na-shopee-794987": {
+    "id": "procuro-freelancer-para-criacao-de-anuncios-na-shopee-794987",
+    "url": "https://www.99freelas.com.br/project/procuro-freelancer-para-criacao-de-anuncios-na-shopee-794987?fs=t",
+    "titulo": "Procuro freelancer para criação de anúncios na Shopee",
+    "valor": 140,
+    "prazo": 2,
+    "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com catalogação, configuração e otimização de produtos na Shopee e marketplaces.\n\nPara a Nani Artes, realizo o cadastro completo do lote inicial de 3 a 5 produtos (caixinhas e kits personalizados): títulos otimizados para as buscas da plataforma, descrições detalhadas e vendedoras, estruturação das variações de modelos/quantidades, além do enquadramento das imagens e orientações práticas para alavancar a visibilidade dos anúncios.\n\nVocê já tem as fotos dos produtos e os modelos de caixinhas prontos para cadastrarmos?\n\nPrazo: 2 dias\n\nValor: R$ 140",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-29T16:46:10.209369"
   }
 }
