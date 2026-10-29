@@ -230,6 +230,17 @@
     "prazo": 1,
     "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com integrações de WhatsApp e configurações avançadas no Meta Business Manager (BM), vinculando contas de WhatsApp Business a páginas e contas de anúncios.\n\nRealizo essa configuração pontual de forma rápida e segura:\n1. Verificação e vinculação do número do WhatsApp Business diretamente nas configurações de negócio do seu Gerenciador da Meta.\n2. Atribuição de permissões à página do Facebook e liberação dos ativos para a conta de anúncios, deixando tudo apto para veicular campanhas com botão direcionando para o WhatsApp sem bloqueios.\n3. Validação imediata com teste prático na plataforma.\n\nVocê tem acesso de administrador com autenticação de dois fatores ativa no Gerenciador de Negócios (BM)?\n\nPrazo: 1 dia\n\nValor: R$ 150",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-29T12:31:18.775400"
+    "data_envio": "2026-10-29T12:31:18.775400",
+    "talk_url": "https://www.99freelas.com.br/talk/17533691"
+  },
+  "criacao-de-template-pra-api-oficial-da-meta-794928": {
+    "id": "criacao-de-template-pra-api-oficial-da-meta-794928",
+    "url": "https://www.99freelas.com.br/project/criacao-de-template-pra-api-oficial-da-meta-794928?fs=t",
+    "titulo": "Criação de Template pra API Oficial da Meta",
+    "valor": 190,
+    "prazo": 1,
+    "texto_proposta": "Olá, tudo bem?\n\nTenho ampla experiência com a WhatsApp Cloud API (Meta for Developers) e aprovação de modelos de mensagens nas diretrizes de categorização (Utility vs Marketing / Service).\n\nA Meta classifica templates com base em gatilhos específicos de transação, confirmação ou suporte ativo, reprovando automaticamente ou rebaixando para marketing caso contenham chamadas comerciais, saudações abertas ou links não transacionais. Reformulo o texto, variáveis e cabeçalho exatamente na estrutura exigida para enquadramento direto na categoria Utilidade (Utility).\n\nVocê já tem os modelos de texto rascunhados para eu ajustar e submetermos juntos no gerenciador da Meta?\n\nPrazo: 1 dia\n\nValor: R$ 190",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-29T13:00:56.495261"
   }
 }
