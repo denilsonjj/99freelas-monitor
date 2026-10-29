@@ -264,6 +264,8 @@
     "prazo": 3,
     "texto_proposta": "Olá, tudo bem?\n\nAtuo com análise de dados para e-commerce, mineração de produtos e modelagem de viabilidade financeira e precificação de margem líquida.\n\nPara o lote piloto da Amazon.com.br, utilizo critérios rigorosos de filtro: BSR consistente com histórico de estabilidade via Keepa/Helium10, Buy Box sem domínio direto da Amazon Retail, análise de concorrentes com poucas avaliações e verificação de marcas/restrições. O cálculo do Custo Máximo de Aquisição (CMA) é estruturado por engenharia reversa considerando tarifas de categoria, frete/FBA, impostos e margem de lucro mínima estipulada, consolidando todos os dados em uma planilha padronizada e automatizada.\n\nPodemos iniciar a validação dos primeiros produtos do lote piloto hoje mesmo?\n\nPrazo: 3 dias\n\nValor: R$ 290",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-29T14:01:10.541831"
+    "data_envio": "2026-10-29T14:01:10.541831",
+    "respondido": true,
+    "talk_url": "https://www.99freelas.com.br/talk/17534210"
   }
 }
