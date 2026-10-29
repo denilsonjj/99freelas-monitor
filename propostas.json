@@ -319,5 +319,15 @@
     "texto_proposta": "Olá, tudo bem?\n\nEspecialista em arquitetura backend de alta performance, modelagem/otimização de consultas em MySQL volumoso e sincronização com Elasticsearch (ELK / Logstash / CDC com Debezium).\n\nPara bancos com alto throughput de escrita, leitura e deleção contínua, estruturo APIs REST/FastAPI ou Node.js com paginação eficiente (keyset pagination em vez de offsets pesados) e índices otimizados para evitar table scans. Para o espelhamento em tempo real no Elasticsearch sem sobrecarregar o MySQL primário, implemento um pipeline de sincronização contínua (via Change Data Capture com binlogs ou workers assíncronos), garantindo latência mínima e busca ultra rápida.\n\nQual é o volume estimado de registros nessas tabelas e a média de requisições por segundo que as APIs receberão?\n\nPrazo: 8 dias\n\nValor: R$ 980",
     "status": "enviado_com_sucesso",
     "data_envio": "2026-10-29T16:15:58.468429"
+  },
+  "quero-ajuda-com-e-commerce-794984": {
+    "id": "quero-ajuda-com-e-commerce-794984",
+    "url": "https://www.99freelas.com.br/project/quero-ajuda-com-e-commerce-794984?fs=t",
+    "titulo": "Quero ajuda com e commerce",
+    "valor": 240,
+    "prazo": 3,
+    "texto_proposta": "Olá, tudo bem?\n\nTrabalho diretamente com estruturação de e-commerce, catálogo de produtos, integração de frete e pagamentos e gestão de pedidos.\n\nTe ajudo de forma prática e passo a passo a organizar sua operação: estruturar os produtos e categorias corretamente, configurar os meios de pagamento/Pix e envio, e alinhar a rotina diária para você ter total segurança e clareza de como operar sua loja sem complicação.\n\nQual é a plataforma que você está utilizando e qual o nicho dos seus produtos?\n\nPrazo: 3 dias\n\nValor: R$ 240",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-29T16:31:10.209798"
   }
 }
