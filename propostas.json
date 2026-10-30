@@ -585,6 +585,17 @@
     "prazo": 3,
     "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida vivência no ecossistema Flutter desenvolvendo aplicações complexas e escaláveis de delivery e logística de ponta a ponta, incluindo a tríade de apps (cliente, lojista e entregador), integração em tempo real com Firebase/Firestore, gateways de pagamentos e backends Node.js na AWS.\n\nPara esta consultoria e revisão inicial com foco no crescimento do projeto:\n\n• Auditoria da estrutura Flutter: padrões de arquitetura (Clean Architecture / BLoC / Provider / Riverpod), boas práticas em Dart, reutilização de componentes e otimização de renderização;\n• Análise da infraestrutura backend Node.js (AWS Lightsail) e modelagem de dados e regras de segurança (Security Rules) no Firestore e Auth;\n• Verificação rigorosa do fluxo transacional: consistência na chamada de gateways de pagamento, idempotência e tratamento seguro de webhooks contra duplicações ou perdas de pedidos;\n• Relatório técnico executivo claro com diagnóstico das oportunidades de melhoria, gargalos de performance e um plano de ação para suportar a fase de tração e escala contínua.\n\nPossuo total domínio no fluxo de trabalho com Cursor e ambientes modernos de desenvolvimento ágil.\n\nPodemos conversar no chat para você me conceder o acesso ao repositório ou alinharmos os pontos focais dessa primeira etapa?\n\nPrazo: 3 dias\n\nValor: R$ 480",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T16:46:16.096255"
+    "data_envio": "2026-10-30T16:46:16.096255",
+    "talk_url": "https://www.99freelas.com.br/talk/17541224"
+  },
+  "desenvolvedor-next-js-para-evoluir-sistema-de-manutencao-de-ar-condicionado-795246": {
+    "id": "desenvolvedor-next-js-para-evoluir-sistema-de-manutencao-de-ar-condicionado-795246",
+    "url": "https://www.99freelas.com.br/project/desenvolvedor-next-js-para-evoluir-sistema-de-manutencao-de-ar-condicionado-795246?fs=t",
+    "titulo": "Desenvolvedor Next.js para evoluir sistema de manutenção de ar-condicionado",
+    "valor": 1700,
+    "prazo": 14,
+    "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência no ecossistema Next.js (App Router e SSR/SSG), modelagem e queries performáticas em PostgreSQL, além de domínio prático com a stack exata que vocês já utilizam: automações no n8n, API do WhatsApp (WAHA / Baileys / Cloud API), agentes de IA (OpenAI / Claude) e integrações financeiras com Mercado Pago e ERP Omie.\n\nPara evoluir e estruturar os novos módulos do sistema de vocês:\n\n• Portal do Cliente: login corporativo por empresa, exibição intuitiva de inventário por localidade, histórico técnico, health score e abertura/aprovação de orçamentos com leitura dinâmica via QR Code;\n• Fluxo completo de orçamentos e agendamento: checkout com seleção de condições de pagamento (desconto/acréscimo por método via Mercado Pago), redirecionando orçamentos aprovados diretamente para a esteira de agendamento do atendente;\n• IA no WhatsApp (n8n + WAHA): agente inteligente para triagem, coleta de informações do cliente/equipamento, inserção no PostgreSQL via API REST do Next.js e minuta de orçamento preliminar;\n• Ajustes visuais de UX/UI com componentes padronizados e rotina de deploy contínuo na VPS Linux via Git com documentação das variáveis de ambiente.\n\nPodemos marcar uma rápida conversa para alinhar o repositório no Git e detalhar a prioridade das entregas por etapas?\n\nPrazo: 14 dias\n\nValor: R$ 1700",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T17:31:23.212656"
   }
 }
