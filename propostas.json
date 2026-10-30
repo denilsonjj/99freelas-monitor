@@ -408,7 +408,8 @@
     "texto_proposta": "Olá, tudo bem?\n\nEspecialista em Business Intelligence no Power BI e modelagem de dados no Excel/Google Sheets, com foco em dashboards executivos práticos e de fácil manutenção diária.\n\nEstruturo a sua planilha padronizada com validações de dados (para que qualquer pessoa da equipe preencha sem risco de corromper fórmulas ou quebrar relatórios). Conecto diretamente ao Power BI criando os painéis com acompanhamento de metas comerciais e administrativas, cartões de KPIs dinâmicos, comparativos mensais e gráficos intuitivos, onde basta clicar em \"Atualizar\" para os indicadores refletirem os novos dados. Na entrega, realizo uma videochamada guiada para ensinar o preenchimento da planilha e a navegação no painel, além de deixar um vídeo gravado de consulta.\n\nQuais são os principais indicadores e metas que você precisa acompanhar no dia a dia?\n\nPrazo: 4 dias\n\nValor: R$ 480",
     "status": "enviado_com_sucesso",
     "data_envio": "2026-10-30T08:39:21.520906",
-    "talk_url": "https://www.99freelas.com.br/talk/17538026"
+    "talk_url": "https://www.99freelas.com.br/talk/17538026",
+    "respondido": true
   },
   "automacao-de-notas-fiscais-795131": {
     "id": "automacao-de-notas-fiscais-795131",
@@ -418,7 +419,8 @@
     "prazo": 2,
     "texto_proposta": "Olá, tudo bem?\n\nEspecialista em automação de processos em Python e integração com Excel/planilhas.\n\nDesenvolvo um script automatizado que faz a leitura instantânea dos arquivos de notas fiscais (seja em XML ou PDF com OCR) e extrai com precisão cirúrgica o número do pedido, razão social/fornecedor, valor total e data de vencimento, alimentando a sua planilha do Excel de forma estruturada e sem erros manuais de digitação. Você só precisará colocar as notas em uma pasta e clicar para a planilha ser atualizada.\n\nAs suas notas fiscais são recebidas em formato XML (da Danfe) ou em PDF?\n\nPrazo: 2 dias\n\nValor: R$ 280",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T09:16:35.646634"
+    "data_envio": "2026-10-30T09:16:35.646634",
+    "talk_url": "https://www.99freelas.com.br/talk/17538231"
   },
   "plugin-amelia-com-wordpress-mercado-pago-e-google-agenda-795130": {
     "id": "plugin-amelia-com-wordpress-mercado-pago-e-google-agenda-795130",
@@ -428,6 +430,17 @@
     "prazo": 5,
     "texto_proposta": "Olá, tudo bem?\n\nTenho sólida experiência com WordPress, Elementor e arquitetura de agendamentos com o plugin Amelia (Standard/Pro), além de integração com a API do Mercado Pago, sincronização bidirecional do Google Agenda e hospedagem Hostinger.\n\nEstruturo a solução limpa do zero: configuro os serviços individuais e em grupo (gratuitos e pagos), integro o gateway do Mercado Pago com webhook seguro na LP e nas páginas de agendamento, ajusto a sincronização com o Google Agenda via Google Cloud Console sem conflitos de horários e configuro o Cron Job no painel da Hostinger para disparo pontual de e-mails de confirmação e lembretes. Ao final, entrego as páginas de obrigado padronizadas e realizo a call gravada com o seu colaborador para alinhamento operacional.\n\nO site já possui as credenciais de produção do Mercado Pago e da API do Google Calendar liberadas?\n\nPrazo: 5 dias\n\nValor: R$ 820",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T09:16:51.719609"
+    "data_envio": "2026-10-30T09:16:51.719609",
+    "talk_url": "https://www.99freelas.com.br/talk/17538234"
+  },
+  "finalizacao-de-site-correcao-de-dkim-e-integracao-do-mercado-pago-795132": {
+    "id": "finalizacao-de-site-correcao-de-dkim-e-integracao-do-mercado-pago-795132",
+    "url": "https://www.99freelas.com.br/project/finalizacao-de-site-correcao-de-dkim-e-integracao-do-mercado-pago-795132?fs=t",
+    "titulo": "Finalização de site, correção de DKIM e integração do Mercado Pago",
+    "valor": 980,
+    "prazo": 7,
+    "texto_proposta": "Olá, tudo bem?\n\nEspecialista em arquitetura backend, segurança de infraestrutura DNS/Cloudflare e integração direta com as APIs do Mercado Pago Developers (Checkout Transparente, Webhooks e Split de Pagamentos via OAuth / Marketplace).\n\nNa parte de infraestrutura, valido e configuro na Cloudflare os registros de apontamento com alinhamento rigoroso de SPF, DKIM (chaves de 1024/2048 bits) e DMARC com política de quarentena/rejeição para eliminar problemas de entregabilidade. Na integração de pagamentos, estruturo as credenciais do aplicativo no portal Mercado Pago Developers, implemento o Checkout Transparente e o fluxo de Split de Pagamentos (divisão automática entre seller e comissão da plataforma via marketplace application), além de configurar os webhooks de IPN/notificações assíncronas para baixa imediata dos pedidos e testes completos em homologação (Sandbox) e produção.\n\nEm qual stack/linguagem o site foi desenvolvido e você já tem as contas vendedor/marketplace criadas no Mercado Pago?\n\nPrazo: 7 dias\n\nValor: R$ 980",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T09:47:46.886350"
   }
 }
