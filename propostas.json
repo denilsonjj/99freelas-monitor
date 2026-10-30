@@ -453,6 +453,17 @@
     "prazo": 8,
     "texto_proposta": "Olá, tudo bem?\n\nEspecialista em desenvolvimento de e-commerce e customização de checkouts de alta conversão (WordPress / WooCommerce ou stack sob medida).\n\nConheço a estrutura de venda da Planta Pronta: implemento exatamente esse modelo dinâmico onde o cliente escolhe o projeto base e tem os seletores de opcionais/adicionais em checkboxes (como projeto elétrico, hidrossanitário, estrutural, alteração de layout ou compatibilização), com atualização imediata do valor total na tela. O checkout é transparente (Pix instantâneo e cartão parcelado), enviando os arquivos ou confirmação por e-mail automaticamente após a aprovação.\n\nEm qual plataforma o seu site atual está construído (WordPress ou código próprio)?\n\nPrazo: 8 dias\n\nValor: R$ 980",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T10:01:51.298108"
+    "data_envio": "2026-10-30T10:01:51.298108",
+    "talk_url": "https://www.99freelas.com.br/talk/17538495"
+  },
+  "desenvolvimento-de-site-integrado-com-aplicativo-mobile-795147": {
+    "id": "desenvolvimento-de-site-integrado-com-aplicativo-mobile-795147",
+    "url": "https://www.99freelas.com.br/project/desenvolvimento-de-site-integrado-com-aplicativo-mobile-795147?fs=t",
+    "titulo": "Desenvolvimento de site integrado com aplicativo mobile",
+    "valor": 5900,
+    "prazo": 22,
+    "texto_proposta": "Olá, tudo bem?\n\nEspecialista em desenvolvimento full stack e mobile (Node.js/Python no backend com PostgreSQL, React/Next.js no front-end web e React Native para aplicativo híbrido iOS e Android).\n\nConstruo a solução completa em arquitetura centralizada: backend com APIs REST seguras e autenticação única (Single Sign-On para site e app), painel administrativo intuitivo para gestão de conteúdos/usuários e relatórios, e o aplicativo mobile publicado nas duas lojas (Google Play e App Store) com notificações push nativas. A integração contempla webhooks de pagamento (Pix/cartão), disparos transacionais e esteira de testes com 30 dias de suporte pós-entrega e manual operacional.\n\nQual é o modelo de negócio ou serviço central que a plataforma irá intermediar?\n\nPrazo: 22 dias\n\nValor: R$ 5900",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T10:31:46.112545"
   }
 }
