@@ -488,5 +488,25 @@
     "status": "enviado_com_sucesso",
     "data_envio": "2026-10-30T11:47:02.020539",
     "talk_url": "https://www.99freelas.com.br/talk/17539200"
+  },
+  "sistema-de-orcamentos-para-moveis-planejados-com-geracao-de-pdf-795180": {
+    "id": "sistema-de-orcamentos-para-moveis-planejados-com-geracao-de-pdf-795180",
+    "url": "https://www.99freelas.com.br/project/sistema-de-orcamentos-para-moveis-planejados-com-geracao-de-pdf-795180?fs=t",
+    "titulo": "Sistema de orçamentos para móveis planejados com geração de PDF",
+    "valor": 6800,
+    "prazo": 30,
+    "texto_proposta": "Olá, tudo bem?\n\nEspecialista em arquitetura e desenvolvimento de sistemas web sob medida, ERPs e motores de cálculo orçamentário com Node.js/TypeScript, PostgreSQL e React/Next.js.\n\nProponho a stack recomendada (Next.js + Node.js + PostgreSQL) estruturada nas 3 fases solicitadas:\n- Fase 1 (MVP - R$ 2.800 | 12 dias): Perfis com permissões rígidas (vendedor sem acesso a custos na API/DOM), cadastro de clientes com CEP, banco de materiais (MDF/MDP, ferragens, perdas), motor de precificação e margens, montagem de orçamentos por ambientes/módulos, geração de PDF profissional em menos de 3s e gatilhos de WhatsApp.\n- Fase 2 (Operação - R$ 2.400 | 10 dias): Kanban de produção, financeiro com contas a receber/comissões e agenda de montagens.\n- Fase 3 (Gestão - R$ 1.600 | 8 dias): Dashboard executivo de conversão, margens reais, exportações e ajustes finais.\n\nO sistema roda com custo de hospedagem estimado em ~R$ 80 a R$ 120/mês (Render/DigitalOcean + Postgres gerenciado). Inclui testes de cálculo, código no seu Git, documentação e 90 dias de garantia.\n\nPodemos agendar uma conversa para você me mostrar a planilha atual de referência dos cálculos?\n\nPrazo: 30 dias\n\nValor: R$ 6800",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T12:32:27.718335"
+  },
+  "ajustes-design-e-sistema-de-controle-de-estoque-para-site-medico-795177": {
+    "id": "ajustes-design-e-sistema-de-controle-de-estoque-para-site-medico-795177",
+    "url": "https://www.99freelas.com.br/project/ajustes-design-e-sistema-de-controle-de-estoque-para-site-medico-795177?fs=t",
+    "titulo": "Ajustes, design e sistema de controle de estoque para site médico",
+    "valor": 350,
+    "prazo": 4,
+    "texto_proposta": "Olá, tudo bem?\n\nDesenvolvedor web e especialista em sistemas de gestão com foco em WordPress, PHP, JavaScript e bancos de dados relacionais.\n\nRealizo os ajustes pontuais de layout e melhorias visuais na página do seu cliente da área médica, garantindo responsividade e aspecto profissional. Paralelamente, implemento o módulo de controle de estoque (entrada, saída, alerta de itens críticos e histórico de movimentações) de forma leve e prática para a equipe médica operar sem dificuldades.\n\nEm qual plataforma o site está estruturado atualmente (WordPress ou código sob medida)?\n\nPrazo: 4 dias\n\nValor: R$ 350",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T12:32:43.047690"
   }
 }
