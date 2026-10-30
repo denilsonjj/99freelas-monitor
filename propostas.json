@@ -466,5 +466,25 @@
     "status": "enviado_com_sucesso",
     "data_envio": "2026-10-30T10:31:46.112545",
     "talk_url": "https://www.99freelas.com.br/talk/17538693"
+  },
+  "correcao-de-erro-em-anuncio-no-meta-business-795168": {
+    "id": "correcao-de-erro-em-anuncio-no-meta-business-795168",
+    "url": "https://www.99freelas.com.br/project/correcao-de-erro-em-anuncio-no-meta-business-795168?fs=t",
+    "titulo": "Correção de erro em anúncio no Meta Business",
+    "valor": 140,
+    "prazo": 1,
+    "texto_proposta": "Olá, tudo bem?\n\nEspecialista em ecossistema Meta Developers e Meta Business Manager, com foco em configuração de contas, eventos e registro de aplicativos móveis.\n\nResolvo esse erro de application_id de forma rápida: acesso o painel de desenvolvedores da Meta (developers.facebook.com), configuro o ID do aplicativo Beleza Domicílio vinculado ao pacote da Google Play Store, faço a associação correta à sua conta de anúncios no Business Manager e valido o status para liberar a campanha imediatamente.\n\nVocê já possui acesso de administrador à conta do Meta Business e ao painel de desenvolvedores?\n\nPrazo: 1 dia\n\nValor: R$ 140",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T11:46:46.840184"
+  },
+  "configuracao-de-crm-automacoes-e-integracoes-795166": {
+    "id": "configuracao-de-crm-automacoes-e-integracoes-795166",
+    "url": "https://www.99freelas.com.br/project/configuracao-de-crm-automacoes-e-integracoes-795166?fs=t",
+    "titulo": "Configuração de CRM, automações e integrações",
+    "valor": 420,
+    "prazo": 3,
+    "texto_proposta": "Olá, tudo bem?\n\nEspecialista em estruturação de CRMs, automação de processos e integrações multicanais (Kommo, HubSpot, RD Station, EnturOS, n8n, Make e webhooks/APIs).\n\nEstruturo o seu CRM de ponta a ponta: desenho do funil de vendas, criação de campos personalizados, regras de automação por gatilhos de avanço de etapa, cadência automática de follow-ups e integração com canais de entrada (WhatsApp, formulários e landing pages), garantindo que nenhum lead fique sem retorno e que todo o histórico seja registrado de forma confiável.\n\nQuais são os principais canais de entrada de leads que você deseja integrar ao CRM nesta primeira etapa?\n\nPrazo: 3 dias\n\nValor: R$ 420",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T11:47:02.020539"
   }
 }
