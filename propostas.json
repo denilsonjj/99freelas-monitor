@@ -385,6 +385,17 @@
     "prazo": 2,
     "texto_proposta": "Olá, tudo bem?\n\nDesenvolvo rotinas de automação, web scraping e extração estruturada em Python (Playwright / BeautifulSoup / Requests) com controle rigoroso de paginação e validação de integridade.\n\nPara a coleta na Hemeroteca Digital da BN, estruturo um fluxo automatizado que baixa as páginas na resolução máxima nativa, renomeia com o padrão exato exigido e preenche a planilha de cobertura sem inconsistências de sequência, além de lidar com os desafios de requisição/CAPTCHA da plataforma. Entrego o lote piloto (Pacotilha jul-set/1906) 100% validado na pasta do Google Drive. Minha estimativa de coleta é de 800 a 1.500 páginas por dia.\n\nPodemos rodar esse piloto para você validar a qualidade dos arquivos e o preenchimento da planilha?\n\nPrazo: 2 dias\n\nValor: R$ 120",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-29T22:16:14.353035"
+    "data_envio": "2026-10-29T22:16:14.353035",
+    "talk_url": "https://www.99freelas.com.br/talk/17537107"
+  },
+  "cadastrar-produtos-no-mercado-livre-795086": {
+    "id": "cadastrar-produtos-no-mercado-livre-795086",
+    "url": "https://www.99freelas.com.br/project/cadastrar-produtos-no-mercado-livre-795086?fs=t",
+    "titulo": "Cadastrar produtos no mercado livre",
+    "valor": 170,
+    "prazo": 2,
+    "texto_proposta": "Olá, Cyro, tudo bem?\n\nTrabalho diretamente com estruturação de catálogos e configuração de anúncios com variações complexas no Mercado Livre e na Shopee.\n\nPara as canetas de retoque automotivo, estruturo os anúncios agrupados com grade de variações (cores/códigos de tinta por montadora e modelo), títulos otimizados para as buscas dos compradores, ficha técnica completa e imagens explicativas para o cliente selecionar a cor exata sem gerar devoluções, além de deixar tudo configurado para você começar a vender com segurança nas duas plataformas.\n\nVocê já tem a tabela de correspondência de cores e fotos das canetas separadas para iniciarmos?\n\nPrazo: 2 dias\n\nValor: R$ 170",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T06:03:10.392427"
   }
 }
