@@ -374,6 +374,17 @@
     "prazo": 3,
     "texto_proposta": "Olá, tudo bem?\n\nDesenvolvedor especializado em React Native, automação de build e esteiras de publicação nas lojas Google Play Console e Apple App Store Connect.\n\nRealizo a geração dos novos pacotes (AAB para Google Play e IPA via Xcode/Fastlane para App Store), atualização das chaves/certificados, versionamento de build (versionCode e bundleVersion) e submissão completa das novas versões para a revisão das duas lojas sem travamentos.\n\nVocê já possui as contas de desenvolvedor da Apple e Google ativas com os acessos configurados?\n\nPrazo: 3 dias\n\nValor: R$ 320",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-29T21:31:39.973157"
+    "data_envio": "2026-10-29T21:31:39.973157",
+    "talk_url": "https://www.99freelas.com.br/talk/17536855"
+  },
+  "coleta-de-jornais-e-revistas-na-hemeroteca-digital-da-bn-795064": {
+    "id": "coleta-de-jornais-e-revistas-na-hemeroteca-digital-da-bn-795064",
+    "url": "https://www.99freelas.com.br/project/coleta-de-jornais-e-revistas-na-hemeroteca-digital-da-bn-795064?fs=t",
+    "titulo": "Coleta de jornais e revistas na Hemeroteca Digital da BN",
+    "valor": 120,
+    "prazo": 2,
+    "texto_proposta": "Olá, tudo bem?\n\nDesenvolvo rotinas de automação, web scraping e extração estruturada em Python (Playwright / BeautifulSoup / Requests) com controle rigoroso de paginação e validação de integridade.\n\nPara a coleta na Hemeroteca Digital da BN, estruturo um fluxo automatizado que baixa as páginas na resolução máxima nativa, renomeia com o padrão exato exigido e preenche a planilha de cobertura sem inconsistências de sequência, além de lidar com os desafios de requisição/CAPTCHA da plataforma. Entrego o lote piloto (Pacotilha jul-set/1906) 100% validado na pasta do Google Drive. Minha estimativa de coleta é de 800 a 1.500 páginas por dia.\n\nPodemos rodar esse piloto para você validar a qualidade dos arquivos e o preenchimento da planilha?\n\nPrazo: 2 dias\n\nValor: R$ 120",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-29T22:16:14.353035"
   }
 }
