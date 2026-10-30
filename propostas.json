@@ -607,7 +607,8 @@
     "prazo": 5,
     "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência em engenharia de automações inteligentes (n8n / Make / Python), integração com APIs de CRMs (Kommo, HubSpot, RD Station, Bitrix24, etc.) e orquestração de LLMs com a API oficial da Anthropic (Claude 3.5 Sonnet / Claude AI).\n\nEstruturo exatamente essa inteligência de supervisão comercial como camada complementar ao seu fluxo atual:\n\n• Conexão direta com a API do Claude e webhooks do seu CRM para leitura do status e histórico de conversas dos leads em tempo real;\n• Análise contextual de ociosidade: o Claude identifica leads parados sem retorno, tempo de espera pós-visita técnica ou propostas enviadas sem fechamento;\n• Alertas proativos e individualizados via WhatsApp / Slack / Telegram para as atendentes humanas, indicando o contexto exato e a ação sugerida;\n• Painel diário de resumo e alertas de alta prioridade enviados diretamente para você acompanhar o funil e intervir nas principais oportunidades;\n• Validação em ambiente de testes e documentação dos prompts e fluxos de automação.\n\nPodemos conversar para você me dizer qual CRM você utiliza e como as atendentes preferem receber as notificações?\n\nPrazo: 5 dias\n\nValor: R$ 680",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T18:46:01.972884"
+    "data_envio": "2026-10-30T18:46:01.972884",
+    "talk_url": "https://www.99freelas.com.br/talk/17541958"
   },
   "sistema-para-restaurantes-que-mostra-entradas-e-saidas-795261": {
     "id": "sistema-para-restaurantes-que-mostra-entradas-e-saidas-795261",
@@ -617,6 +618,17 @@
     "prazo": 7,
     "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência no desenvolvimento de sistemas web, dashboards gerenciais e controle financeiro para o setor de alimentação (restaurantes, bares e dark kitchens), com foco total na usabilidade prática para os proprietários.\n\nDesenvolvo essa plataforma com visual moderno, intuitivo e direto ao ponto:\n\n• Painel gerencial responsivo (computador e celular) com indicadores em tempo real de faturamento bruto, custos de mercadoria (CMV), despesas fixas/variáveis e lucro líquido real;\n• Módulo de auditoria inteligente: destaque visual automático para desvios, gastos anormais por categoria e alertas de gargalos que estão prejudicando a margem da casa;\n• Controle descomplicado de fluxo de caixa (entradas x saídas diárias) e conciliação por método de pagamento (Pix, cartão, dinheiro e delivery);\n• Sistema leve, seguro, com controle de acessos e pronto para operar na nuvem.\n\nPodemos conversar no chat para você me contar mais sobre as rotinas atuais do restaurante e os relatórios que você mais sente falta hoje?\n\nPrazo: 7 dias\n\nValor: R$ 780",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T19:01:24.652658"
+    "data_envio": "2026-10-30T19:01:24.652658",
+    "talk_url": "https://www.99freelas.com.br/talk/17542040"
+  },
+  "diagnostico-e-organizacao-de-processos-comerciais-795270": {
+    "id": "diagnostico-e-organizacao-de-processos-comerciais-795270",
+    "url": "https://www.99freelas.com.br/project/diagnostico-e-organizacao-de-processos-comerciais-795270?fs=t",
+    "titulo": "Diagnóstico e organização de processos comerciais",
+    "valor": 680,
+    "prazo": 7,
+    "texto_proposta": "Olá, Ana Paula! Tudo bem?\n\nTenho sólida experiência na estruturação de processos comerciais, mapeamento de jornadas de atendimento, implantação de CRMs intuitivos e automações de follow-up para prestadores de serviços de alto valor e consultorias.\n\nPara a sua assessoria internacional e projetos editoriais:\n\n• Mapeamento completo dos pontos de contato atuais: desde a entrada do lead, triagem das demandas e envio de propostas até o acompanhamento do fechamento;\n• Diagnóstico executivo identificando onde há perdas de oportunidades e gargalos de tempo da equipe;\n• Estruturação de um modelo prático e descomplicado de funil comercial no CRM (organizado por etapas claras, motivos de perda e tarefas de follow-up);\n• Elaboração do plano tático de ação para os próximos 90 dias com metas, rotinas sugeridas e indicadores de conversão;\n• Reunião de apresentação e alinhamento prático com a sua equipe para garantir total adesão no dia a dia.\n\nPodemos conversar no chat para você me contar mais sobre como os clientes chegam hoje até a assessoria?\n\nPrazo: 7 dias\n\nValor: R$ 680",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T20:01:07.869425"
   }
 }
