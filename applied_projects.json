@@ -1570,7 +1570,8 @@
     "prazo": 3,
     "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência na estruturação de rotinas financeiras, controle de fluxo de caixa, precificação de produtos e modelagem de indicadores e planilhas de gestão para pequenos negócios e varejo de moda.\n\nPara a sua loja de roupas e acessórios, entrego um diagnóstico completo e ferramentas práticas e descomplicadas:\n\n• Planilha personalizada de fluxo de caixa diário e mensal categorizado para sua rotina real;\n• Apuração detalhada de ponto de equilíbrio, margem de contribuição por peça/categoria e cálculo do capital de giro necessário;\n• Política clara de reposição e giro de estoque para não imobilizar dinheiro em peças paradas;\n• Projeção de metas financeiras para os próximos meses e orientação direta para separação e reserva dos recursos.\n\nO material é entregue de forma didática, com suporte para que você mantenha o controle sem dor de cabeça no dia a dia.\n\nPodemos conversar para entender o volume atual de lançamentos e produtos da loja?\n\nPrazo: 3 dias\n\nValor: R$ 260",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T13:17:35.283606"
+    "data_envio": "2026-10-30T13:17:35.283606",
+    "talk_url": "https://www.99freelas.com.br/talk/17539804"
   },
   "designer-grafico-profissional-artes-para-instagram-flyer-e-anuncios-795192": {
     "id": "designer-grafico-profissional-artes-para-instagram-flyer-e-anuncios-795192",
@@ -1590,6 +1591,52 @@
     "prazo": 4,
     "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência em desenvolvimento e refatoração de sites na área da saúde e clínicas, cuidando tanto da harmonia visual e usabilidade quanto da implementação de regras e módulos internos de controle de estoque.\n\nPara atender exatamente ao que você precisa:\n\n• Ajusto os detalhes visuais e espaçamentos das páginas, garantindo navegação limpa, profissional e 100% responsiva (celular e desktop);\n• Estruturo o módulo simples de controle de estoque para entrada, saída, saldo e alertas de reposição de insumos/produtos;\n• Faço a validação completa de funcionamento em ambiente de testes antes de subir para produção, sem risco de instabilidade.\n\nPodemos conversar para você me mostrar como o site está estruturado atualmente e quais são os principais ajustes visuais prioritários?\n\nPrazo: 4 dias\n\nValor: R$ 420",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T13:46:29.315266"
+    "data_envio": "2026-10-30T13:46:29.315266",
+    "talk_url": "https://www.99freelas.com.br/talk/17539977"
+  },
+  "riacao-de-logomarca-para-marca-de-pipoca-gourmet-795194": {
+    "id": "riacao-de-logomarca-para-marca-de-pipoca-gourmet-795194",
+    "titulo": "Riação de logomarca para marca de pipoca gourmet",
+    "status": "descartado_design_grafico"
+  },
+  "criacao-de-logotipo-para-marca-de-pipoca-gourmet-795194": {
+    "id": "criacao-de-logotipo-para-marca-de-pipoca-gourmet-795194",
+    "titulo": "Criação de logotipo para marca de pipoca gourmet",
+    "status": "descartado_design_grafico"
+  },
+  "3-adesivos-para-vitrine-de-loja-795200": {
+    "id": "3-adesivos-para-vitrine-de-loja-795200",
+    "titulo": "3 adesivos para vitrine de loja",
+    "status": "descartado_design_grafico"
+  },
+  "vetorizacao-de-camiseta-de-corrida-mdash-entrega-hoje-ate-as-16h-795203": {
+    "id": "vetorizacao-de-camiseta-de-corrida-mdash-entrega-hoje-ate-as-16h-795203",
+    "titulo": "Vetorização de camiseta de corrida — entrega hoje até as 16h",
+    "status": "descartado_design_grafico"
+  },
+  "sousplat-em-tamanho-real-para-impressao-795202": {
+    "id": "sousplat-em-tamanho-real-para-impressao-795202",
+    "titulo": "Sousplat em tamanho real para impressão",
+    "status": "descartado_design_grafico"
+  },
+  "vetorizacao-de-camiseta-de-corrida-entrega-hoje-ate-as-16h-795203": {
+    "id": "vetorizacao-de-camiseta-de-corrida-entrega-hoje-ate-as-16h-795203",
+    "titulo": "Vetorização de camiseta de corrida - entrega hoje até as 16h",
+    "status": "descartado_design_grafico"
+  },
+  "moldes-digitais-de-sousplats-em-tamanho-real-para-impressao-795202": {
+    "id": "moldes-digitais-de-sousplats-em-tamanho-real-para-impressao-795202",
+    "titulo": "Moldes digitais de sousplats em tamanho real para impressão",
+    "status": "descartado_design_grafico"
+  },
+  "desenvolvimento-de-microservico-de-social-listening-instagram-api-795205": {
+    "id": "desenvolvimento-de-microservico-de-social-listening-instagram-api-795205",
+    "url": "https://www.99freelas.com.br/project/desenvolvimento-de-microservico-de-social-listening-instagram-api-795205?fs=t",
+    "titulo": "Desenvolvimento de microserviço de social listening - Instagram API",
+    "valor": 1850,
+    "prazo": 12,
+    "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência no desenvolvimento de microsserviços backend em Node.js / TypeScript, arquitetura de APIs REST, containerização com Docker e integrações oficiais com a Meta Graph API (Instagram Graph API e Webhooks oficiais).\n\nPara o MVP da plataforma de gestão de afiliados:\n\n• Arquitetura com Node.js/TypeScript, PostgreSQL e Docker, com isolamento multi-tenant por lojista;\n• Autenticação via Instagram Graph API e recepção via Webhooks oficiais para captura em tempo real de menções e tags (@mentions) em publicações, Reels e menções em Stories (conforme as permissões e ciclo de vida de 24h da Meta);\n• Rotina de polling/sincronização de contingência com controle anti-duplicação e tratamento robusto de expiração de token (long-lived tokens) e rate limits;\n• Endpoints REST claros e documentados com Swagger/OpenAPI para listagem com filtros, conferência de afiliados ativos/inativos e consolidação de métricas;\n• Entrega 100% de acordo com as diretrizes e termos oficiais da Meta, sem qualquer risco de bloqueio.\n\nEntregarei o repositório completo com Dockerfile, docker-compose, documentação do Swagger e o guia passo a passo para configuração das permissões no Meta for Developers.\n\nPodemos marcar uma rápida conversa para alinhar o fluxo de autenticação dos lojistas e as credenciais do App Meta?\n\nPrazo: 12 dias\n\nValor: R$ 1850",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T15:01:07.569883"
   }
 }
