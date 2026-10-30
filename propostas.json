@@ -363,6 +363,17 @@
     "prazo": 3,
     "texto_proposta": "Olá, tudo bem?\n\nEspecialista em WordPress, Elementor e ambiente Hostinger, com foco em design responsivo, alta conversão e otimização técnica de performance (Core Web Vitals e SEO On-Page).\n\nRefino a estrutura criada pela IA da Hostinger: alinho a identidade visual, tipografia e espaçamentos com Elementor, organizo os blocos de conteúdo e formulários de contato/WhatsApp, além de configurar SSL, cache e meta tags de SEO para carregamento rápido e boa indexação no Google.\n\nQual é o segmento da empresa e você já possui os textos e imagens finais definidos?\n\nPrazo: 3 dias\n\nValor: R$ 320",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-29T21:01:07.889169"
+    "data_envio": "2026-10-29T21:01:07.889169",
+    "talk_url": "https://www.99freelas.com.br/talk/17536692"
+  },
+  "atualizacao-de-aplicativo-para-ios-e-android-795026": {
+    "id": "atualizacao-de-aplicativo-para-ios-e-android-795026",
+    "url": "https://www.99freelas.com.br/project/atualizacao-de-aplicativo-para-ios-e-android-795026?fs=t",
+    "titulo": "Atualização de aplicativo para iOS e Android",
+    "valor": 320,
+    "prazo": 3,
+    "texto_proposta": "Olá, tudo bem?\n\nDesenvolvedor especializado em React Native, automação de build e esteiras de publicação nas lojas Google Play Console e Apple App Store Connect.\n\nRealizo a geração dos novos pacotes (AAB para Google Play e IPA via Xcode/Fastlane para App Store), atualização das chaves/certificados, versionamento de build (versionCode e bundleVersion) e submissão completa das novas versões para a revisão das duas lojas sem travamentos.\n\nVocê já possui as contas de desenvolvedor da Apple e Google ativas com os acessos configurados?\n\nPrazo: 3 dias\n\nValor: R$ 320",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-29T21:31:39.973157"
   }
 }
