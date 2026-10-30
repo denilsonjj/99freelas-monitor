@@ -519,6 +519,7 @@
     "prazo": 1,
     "texto_proposta": "Olá, tudo bem?\n\nEspecialista em virtualização (VMware, VirtualBox, QEMU/KVM e Hyper-V) e sistemas legados Microsoft.\n\nConfiguro e instalo com rapidez o conjunto de drivers necessários para o Windows 2000 (Guest Additions / VMware Tools legado ou drivers genéricos retrocompatíveis para vídeo VBE/SVGA, controladora de áudio AC97/Sound Blaster e adaptador de rede PCI), eliminando pontos de exclamação no Gerenciador de Dispositivos e garantindo resolução correta e estabilidade do sistema virtualizado.\n\nQual é o hipervisor/software de máquina virtual que você está utilizando (VirtualBox, VMware ou outro)?\n\nPrazo: 1 dia\n\nValor: R$ 150",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T13:01:33.142334"
+    "data_envio": "2026-10-30T13:01:33.142334",
+    "talk_url": "https://www.99freelas.com.br/talk/17539690"
   }
 }
