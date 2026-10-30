@@ -596,6 +596,17 @@
     "prazo": 14,
     "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência no ecossistema Next.js (App Router e SSR/SSG), modelagem e queries performáticas em PostgreSQL, além de domínio prático com a stack exata que vocês já utilizam: automações no n8n, API do WhatsApp (WAHA / Baileys / Cloud API), agentes de IA (OpenAI / Claude) e integrações financeiras com Mercado Pago e ERP Omie.\n\nPara evoluir e estruturar os novos módulos do sistema de vocês:\n\n• Portal do Cliente: login corporativo por empresa, exibição intuitiva de inventário por localidade, histórico técnico, health score e abertura/aprovação de orçamentos com leitura dinâmica via QR Code;\n• Fluxo completo de orçamentos e agendamento: checkout com seleção de condições de pagamento (desconto/acréscimo por método via Mercado Pago), redirecionando orçamentos aprovados diretamente para a esteira de agendamento do atendente;\n• IA no WhatsApp (n8n + WAHA): agente inteligente para triagem, coleta de informações do cliente/equipamento, inserção no PostgreSQL via API REST do Next.js e minuta de orçamento preliminar;\n• Ajustes visuais de UX/UI com componentes padronizados e rotina de deploy contínuo na VPS Linux via Git com documentação das variáveis de ambiente.\n\nPodemos marcar uma rápida conversa para alinhar o repositório no Git e detalhar a prioridade das entregas por etapas?\n\nPrazo: 14 dias\n\nValor: R$ 1700",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T17:31:23.212656"
+    "data_envio": "2026-10-30T17:31:23.212656",
+    "talk_url": "https://www.99freelas.com.br/talk/17541567"
+  },
+  "integracao-do-claude-ai-com-crm-795260": {
+    "id": "integracao-do-claude-ai-com-crm-795260",
+    "url": "https://www.99freelas.com.br/project/integracao-do-claude-ai-com-crm-795260?fs=t",
+    "titulo": "Integração do Claude AI com CRM",
+    "valor": 680,
+    "prazo": 5,
+    "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência em engenharia de automações inteligentes (n8n / Make / Python), integração com APIs de CRMs (Kommo, HubSpot, RD Station, Bitrix24, etc.) e orquestração de LLMs com a API oficial da Anthropic (Claude 3.5 Sonnet / Claude AI).\n\nEstruturo exatamente essa inteligência de supervisão comercial como camada complementar ao seu fluxo atual:\n\n• Conexão direta com a API do Claude e webhooks do seu CRM para leitura do status e histórico de conversas dos leads em tempo real;\n• Análise contextual de ociosidade: o Claude identifica leads parados sem retorno, tempo de espera pós-visita técnica ou propostas enviadas sem fechamento;\n• Alertas proativos e individualizados via WhatsApp / Slack / Telegram para as atendentes humanas, indicando o contexto exato e a ação sugerida;\n• Painel diário de resumo e alertas de alta prioridade enviados diretamente para você acompanhar o funil e intervir nas principais oportunidades;\n• Validação em ambiente de testes e documentação dos prompts e fluxos de automação.\n\nPodemos conversar para você me dizer qual CRM você utiliza e como as atendentes preferem receber as notificações?\n\nPrazo: 5 dias\n\nValor: R$ 680",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T18:46:01.972884"
   }
 }
