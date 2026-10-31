@@ -1851,5 +1851,103 @@
     "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência no desenvolvimento de aplicações em C# (.NET / Windows Forms / WPF / Console), arquitetura de integração com a API oficial da OpenAI (GPT-4o / GPT-4.1) e manipulação avançada de bancos de dados Microsoft SQL Server.\n\nDesenvolvo essa ferramenta de Text-to-SQL de forma limpa, segura e modular:\n\n• Interface desktop intuitiva com campo de prompt para o usuário digitar a pergunta em português claro;\n• Extração inteligente do schema do SQL Server (tabelas, colunas, tipos e relacionamentos) enviada como contexto semântico estruturado para a API da OpenAI;\n• Geração automática do comando SELECT correspondente com validador SQL prévio de segurança (garantindo execução somente leitura, bloqueando comandos destrutivos como UPDATE/DELETE/DROP);\n• Execução da query no SQL Server com exibição do resultado tabulado na tela, visualização da query SQL gerada para uso externo e um resumo textual interpretado pela IA.\n\nEntrego o código-fonte completo documentado no Visual Studio com instruções simples de configuração da connection string e da API Key.\n\nPodemos conversar no chat para alinhar se você prefere a interface em Windows Forms, WPF ou aplicação Console?\n\nPrazo: 3 dias\n\nValor: R$ 420",
     "status": "enviado_com_sucesso",
     "data_envio": "2026-10-30T21:16:24.228824"
+  },
+  "design-3d-de-2-cenarios-no-maya-a-partir-de-concept-art-795279": {
+    "id": "design-3d-de-2-cenarios-no-maya-a-partir-de-concept-art-795279",
+    "titulo": "Design 3D de 2 cenários no Maya a partir de concept art",
+    "status": "descartado_3d_maya"
+  },
+  "bula-para-produtos-da-minha-empresa-795286": {
+    "id": "bula-para-produtos-da-minha-empresa-795286",
+    "titulo": "BULA PARA PRODUTOS DA MINHA EMPRESA",
+    "status": "descartado_design_grafico"
+  },
+  "criacao-de-imagens-de-produtos-para-e-commerce-795285": {
+    "id": "criacao-de-imagens-de-produtos-para-e-commerce-795285",
+    "titulo": "Criação de imagens de produtos para e-commerce",
+    "status": "descartado_design_grafico"
+  },
+  "diagramacao-de-bula-para-produtos-795286": {
+    "id": "diagramacao-de-bula-para-produtos-795286",
+    "titulo": "Diagramação de bula para produtos",
+    "status": "descartado_design_grafico"
+  },
+  "procuro-um-a-ilustrador-a-para-desenvolver-uma-colecao-de-estampas-795314": {
+    "id": "procuro-um-a-ilustrador-a-para-desenvolver-uma-colecao-de-estampas-795314",
+    "status": "descartado_design_estampas"
+  },
+  "gravacao-de-videos-curtos-de-depoimentos-para-corretora-de-investimentos-795312": {
+    "id": "gravacao-de-videos-curtos-de-depoimentos-para-corretora-de-investimentos-795312",
+    "status": "descartado_video_depoimento"
+  },
+  "robo-automatico-bacbo-que-espelhe-um-bot-do-telegram-795310": {
+    "id": "robo-automatico-bacbo-que-espelhe-um-bot-do-telegram-795310",
+    "status": "descartado_cassino_apostas"
+  },
+  "espaco-de-escuta-amp-conversa-795309": {
+    "id": "espaco-de-escuta-amp-conversa-795309",
+    "status": "descartado_anuncio_freelancer"
+  },
+  "fontes-de-marca-para-um-trabalho-795307": {
+    "id": "fontes-de-marca-para-um-trabalho-795307",
+    "status": "descartado_design_tipografia"
+  },
+  "vaga-freelancer-panfletagem-795306": {
+    "id": "vaga-freelancer-panfletagem-795306",
+    "status": "descartado_presencial_panfletagem"
+  },
+  "vender-meu-infoproduto-utilizado-o-facebook-ads-795336": {
+    "id": "vender-meu-infoproduto-utilizado-o-facebook-ads-795336",
+    "status": "descartado_gestao_trafego_ads"
+  },
+  "um-anuncio-para-divulgacao-de-um-aplicativo-795110": {
+    "id": "um-anuncio-para-divulgacao-de-um-aplicativo-795110",
+    "status": "descartado_video_publicitario"
+  },
+  "hunting-e-recrutamento-de-talentos-795333": {
+    "id": "hunting-e-recrutamento-de-talentos-795333",
+    "status": "descartado_rh_hunting"
+  },
+  "ilustracao-de-livro-infantil-795332": {
+    "id": "ilustracao-de-livro-infantil-795332",
+    "status": "descartado_design_ilustracao"
+  },
+  "gravacao-de-curso-completo-de-power-bi-795322": {
+    "id": "gravacao-de-curso-completo-de-power-bi-795322",
+    "status": "descartado_gravacao_videoaulas"
+  },
+  "gravacao-de-curso-completo-de-excel-795321": {
+    "id": "gravacao-de-curso-completo-de-excel-795321",
+    "status": "descartado_gravacao_videoaulas"
+  },
+  "diagramacao-de-e-book-de-financas-795337": {
+    "id": "diagramacao-de-e-book-de-financas-795337",
+    "titulo": "Diagramação de e-book de finanças",
+    "status": "descartado_design_grafico"
+  },
+  "vender-infoproduto-usando-facebook-ads-795336": {
+    "id": "vender-infoproduto-usando-facebook-ads-795336",
+    "titulo": "Vender infoproduto usando Facebook ADS",
+    "status": "descartado_gestao_trafego_ads"
+  },
+  "criacao-de-conteudo-para-facebook-e-tiktok-795318": {
+    "id": "criacao-de-conteudo-para-facebook-e-tiktok-795318",
+    "titulo": "Criação de conteúdo para Facebook e TikTok",
+    "status": "descartado_social_media_video"
+  },
+  "planejamento-copy-e-ajustes-de-artes-para-instagram-de-4-clientes-795338": {
+    "id": "planejamento-copy-e-ajustes-de-artes-para-instagram-de-4-clientes-795338",
+    "titulo": "Planejamento, copy e ajustes de artes para Instagram de 4 clientes",
+    "status": "descartado_social_media_copy"
+  },
+  "desenvolvimento-de-sistema-de-agendamento-online-para-clinica-de-estetica-795341": {
+    "id": "desenvolvimento-de-sistema-de-agendamento-online-para-clinica-de-estetica-795341",
+    "url": "https://www.99freelas.com.br/project/desenvolvimento-de-sistema-de-agendamento-online-para-clinica-de-estetica-795341?fs=t",
+    "titulo": "Desenvolvimento de Sistema de Agendamento Online para Clínica de Estética",
+    "valor": 1600,
+    "prazo": 12,
+    "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência no desenvolvimento de sistemas web responsivos, portais de agendamento e integração de mensagens automáticas via WhatsApp para clínicas e profissionais da área da saúde e estética.\n\nDesenvolvo essa plataforma completa sob medida com foco na sofisticação visual e usabilidade descomplicada:\n\n• Portal do Paciente / Cliente: catálogo dinâmico de procedimentos por categorias, duração e valores, seleção do profissional preferido (ou próximo livre) e calendário interativo em tempo real;\n• Painel Administrativo da Clínica: visão de agenda (diária/semanal/mensal), controle de expediente e intervalos de cada profissional, ficha de atendimento/anamnese rápida e gestão de status (Confirmado, Concluído, Cancelado e No-show);\n• Notificações e Confirmações Automáticas: disparo automático de confirmação e lembretes pré-consulta via WhatsApp / E-mail para zerar faltas;\n• Arquitetura moderna (React / Next.js no frontend e Node.js no backend com PostgreSQL), 100% responsiva para celulares e otimizada para carregamento instantâneo.\n\nEntrego o sistema instalado e configurado na sua hospedagem/nuvem, com documentação clara e treinamento prático da equipe.\n\nPodemos conversar no chat para alinhar a identidade visual da clínica e os primeiros procedimentos a serem cadastrados?\n\nPrazo: 12 dias\n\nValor: R$ 1600",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-31T10:01:01.966089"
   }
 }
