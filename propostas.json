@@ -629,6 +629,17 @@
     "prazo": 7,
     "texto_proposta": "Olá, Ana Paula! Tudo bem?\n\nTenho sólida experiência na estruturação de processos comerciais, mapeamento de jornadas de atendimento, implantação de CRMs intuitivos e automações de follow-up para prestadores de serviços de alto valor e consultorias.\n\nPara a sua assessoria internacional e projetos editoriais:\n\n• Mapeamento completo dos pontos de contato atuais: desde a entrada do lead, triagem das demandas e envio de propostas até o acompanhamento do fechamento;\n• Diagnóstico executivo identificando onde há perdas de oportunidades e gargalos de tempo da equipe;\n• Estruturação de um modelo prático e descomplicado de funil comercial no CRM (organizado por etapas claras, motivos de perda e tarefas de follow-up);\n• Elaboração do plano tático de ação para os próximos 90 dias com metas, rotinas sugeridas e indicadores de conversão;\n• Reunião de apresentação e alinhamento prático com a sua equipe para garantir total adesão no dia a dia.\n\nPodemos conversar no chat para você me contar mais sobre como os clientes chegam hoje até a assessoria?\n\nPrazo: 7 dias\n\nValor: R$ 680",
     "status": "enviado_com_sucesso",
-    "data_envio": "2026-10-30T20:01:07.869425"
+    "data_envio": "2026-10-30T20:01:07.869425",
+    "talk_url": "https://www.99freelas.com.br/talk/17542375"
+  },
+  "mini-projeto-em-c-console-desktop-795277": {
+    "id": "mini-projeto-em-c-console-desktop-795277",
+    "url": "https://www.99freelas.com.br/project/mini-projeto-em-c-console-desktop-795277?fs=t",
+    "titulo": "Mini projeto em C# - console / desktop",
+    "valor": 420,
+    "prazo": 3,
+    "texto_proposta": "Olá! Tudo bem?\n\nTenho sólida experiência no desenvolvimento de aplicações em C# (.NET / Windows Forms / WPF / Console), arquitetura de integração com a API oficial da OpenAI (GPT-4o / GPT-4.1) e manipulação avançada de bancos de dados Microsoft SQL Server.\n\nDesenvolvo essa ferramenta de Text-to-SQL de forma limpa, segura e modular:\n\n• Interface desktop intuitiva com campo de prompt para o usuário digitar a pergunta em português claro;\n• Extração inteligente do schema do SQL Server (tabelas, colunas, tipos e relacionamentos) enviada como contexto semântico estruturado para a API da OpenAI;\n• Geração automática do comando SELECT correspondente com validador SQL prévio de segurança (garantindo execução somente leitura, bloqueando comandos destrutivos como UPDATE/DELETE/DROP);\n• Execução da query no SQL Server com exibição do resultado tabulado na tela, visualização da query SQL gerada para uso externo e um resumo textual interpretado pela IA.\n\nEntrego o código-fonte completo documentado no Visual Studio com instruções simples de configuração da connection string e da API Key.\n\nPodemos conversar no chat para alinhar se você prefere a interface em Windows Forms, WPF ou aplicação Console?\n\nPrazo: 3 dias\n\nValor: R$ 420",
+    "status": "enviado_com_sucesso",
+    "data_envio": "2026-10-30T21:16:24.228824"
   }
 }
